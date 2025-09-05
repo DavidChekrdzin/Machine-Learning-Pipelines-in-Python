@@ -32,8 +32,13 @@ It demonstrates the use of **data preprocessing pipelines**, **feature encoding*
 ## ⚙️ Installation
 1. Clone this repository
 2. Install dependencies:
-    Python 3.8+
-    pandas
-    numpy
-    scikit-learn
-    joblib
+   
+      Python 3.8+
+     
+      pandas
+     
+      numpy
+     
+      scikit-learn
+     
+      joblib
